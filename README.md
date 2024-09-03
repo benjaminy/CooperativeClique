@@ -1,2 +1,2 @@
 # CooperativeClique
-Team collaboration without the g***d*** services running everywhere
+Team collaboration without the gosh darn services running everywhere
